@@ -44,8 +44,7 @@ body{
 }
 .box-main{
     width:37.5rem;
-    max-width: 1900px;
-    margin: 0 auto;
+    margin-inline:auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -55,8 +54,7 @@ body{
 }
 .box-information{
     width:37.5rem;
-    max-width: 1900px;
-    margin: 0 auto;
+    margin-inline:auto;
     display: flex;
     justify-content: space-around;
     flex-direction:column;
