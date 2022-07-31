@@ -9,11 +9,11 @@
 
 body{
     background:rgb(245, 193, 24);
-    text-align: center;
+
 
 }
 .box-header{
-    width:37.5rem;
+    width:40.5rem;
     margin-inline:auto;
     display: flex;
     justify-content: space-between;
@@ -43,7 +43,7 @@ body{
     width: 350px;
 }
 .box-main{
-    width:37.5rem;
+    width:40.5rem;
     margin-inline:auto;
     display: flex;
     justify-content: center;
@@ -53,7 +53,7 @@ body{
     margin-top:10px;
 }
 .box-information{
-    width:37.5rem;
+    width:40.5rem;
     margin-inline:auto;
     display: flex;
     justify-content: space-around;
