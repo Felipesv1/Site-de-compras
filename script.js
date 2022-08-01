@@ -10,7 +10,6 @@ addCart = () => {
     if(num.innerHTML >= 1){
         alert('Added to cart');
         btn.setAttribute('disabled', 'disabled');
-        btn.style.opacity = '0.2';
         num.innerHTML = 1;
     }else{
         btn.removeAttribute('disabled');
@@ -20,13 +19,11 @@ addCart = () => {
 decrement = () => {
     if(num.innerHTML > 1){
         num.innerHTML = parseInt(num.innerHTML) - 1;
-        btn.style.opacity = '1';
  }
 }
 increment = () => {
     if(num.innerHTML < 5){
            num.innerHTML = parseInt(num.innerHTML) + 1;
-           btn.style.opacity = '1';
     }
 }
 
