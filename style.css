@@ -80,6 +80,7 @@ header{
     width: 100%;
     margin-top:10px;
     margin-bottom:10px;
+    padding:5px
 }
 .information h1{
     font-size: 3rem;
@@ -88,7 +89,7 @@ header{
 }
 
 span{
-    margin-left:70px;
+    margin-left:100px;
 }
 
 .information h3{
