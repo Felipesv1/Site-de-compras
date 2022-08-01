@@ -84,7 +84,7 @@ header{
 .information h1{
     font-size: 3rem;
     font-weight: bold;
-    font-family: cursive,sans-serif;
+    font-family:sans-serif;
 }
 
 span{
@@ -94,7 +94,7 @@ span{
 .information h3{
     font-size:2.5rem;
     font-weight: bold;
-    font-family: cursive,sans-serif;
+    font-family: sans-serif;
 }
 .information p{
     font-size: 2rem;
